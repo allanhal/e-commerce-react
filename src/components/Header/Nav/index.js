@@ -7,7 +7,7 @@ export default function NavBar() {
             <Link className="mx-2 home" to='/'>Home</Link>
             <Link className="mx-2 produto" to='/produtos'>Produtos</Link>
             <Link className="mx-2 cat" to='/construcao'>Categorias</Link>
-            <Link className="mx-2 meus" to='/construcao'>Meus Pedidos</Link>
+            <Link className="mx-2 meus" to='/construcao'>Pedidos Realizados</Link>
         </div>
     )
 }
